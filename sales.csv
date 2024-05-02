@@ -1,3 +1,4 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales
 8963,CA-2017-157280,05/11/2017,07/11/2017,First Class,LW-17125,Liz Willingham,Consumer,United States,Virginia Beach,Virginia,23464,South,FUR-FU-10004665,Furniture,Furnishings,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",273.96
 8964,CA-2017-157280,05/11/2017,07/11/2017,First Class,LW-17125,Liz Willingham,Consumer,United States,Virginia Beach,Virginia,23464,South,TEC-AC-10000057,Technology,Accessories,Microsoft Natural Ergonomic Keyboard 4000,89.97
 8965,CA-2017-157280,05/11/2017,07/11/2017,First Class,LW-17125,Liz Willingham,Consumer,United States,Virginia Beach,Virginia,23464,South,FUR-FU-10003806,Furniture,Furnishings,"Tenex Chairmat w/ Average Lip, 45 x 53",756.8
